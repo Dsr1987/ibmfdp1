@@ -1,0 +1,8 @@
+thses are the commands t executr on the docker desktop.
+since it is not installed in this system. thats y im writing here for reference in furture
+
+execute this commands on termional of docker desktop
+
+
+1. docker build -t <name you want to give>:<version>
+example:- docker build -t student_app:1.0
